@@ -1,6 +1,6 @@
 # Myanmar Tools Golang Documentation
 
-This documentation is for Golang specific usage of *Myanmar Tools*.  For general documentation, see [the top-level README](../../README.md).
+This documentation is for Golang specific usage of *Myanmar Tools*.  For general documentation.
 
 ## Installation
 ```bash
