@@ -3,6 +3,7 @@ package myanmartools
 import (
 	"bufio"
 	"bytes"
+	"github.com/ayeminag/go-myanmartools/internal/resources"
 	"math"
 	"math/big"
 	"strings"
@@ -39,7 +40,7 @@ func TestZawgyiDetectorBehavior(t *testing.T) {
 func TestCompatibility(t *testing.T) {
 	t.Run("should produce the same resuls as in compatibility.csv", func(t *testing.T) {
 		detector := NewZawgyiDetector()
-		data, err := Asset("resources/compatibility.tsv")
+		data, err := resources.Asset("resources/compatibility.tsv")
 		if err != nil {
 			t.Fatalf("could not load resources/compatibility.tsv file %#v", err)
 		}
