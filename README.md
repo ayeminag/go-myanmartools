@@ -1,6 +1,6 @@
 # Myanmar Tools Golang Documentation
 
-This documentation is for Golang specific usage of *Myanmar Tools*.  For general documentation.
+This documentation is for Golang specific usage of *Myanmar Tools*.
 
 ## Installation
 ```bash
