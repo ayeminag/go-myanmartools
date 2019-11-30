@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ayeminag/go-myanmartools.svg?branch=master)](https://travis-ci.com/ayeminag/go-myanmartools)
+[![Build Status](https://travis-ci.com/ayeminag/go-myanmartools.svg?branch=master)](https://travis-ci.com/ayeminag/go-myanmartools) [![Go Report Card](https://goreportcard.com/badge/github.com/ayeminag/go-myanmartools)](https://goreportcard.com/report/github.com/ayeminag/go-myanmartools)
 
 # Myanmar Tools Golang Documentation
 
