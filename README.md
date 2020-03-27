@@ -15,7 +15,7 @@ To detect Zawgyi, create an instance of ZawgyiDetector and call `GetZawgyiProbab
 ```go
 import (
     "fmt"
-    "github.com/ayeminag/go-mayanmartools"
+    "github.com/ayeminag/go-myanmartools"
 )
 
 func main() {
